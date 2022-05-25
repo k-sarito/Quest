@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\coryc\\workspace\\csharp\\exercises\\Quest\\Quest.csproj": {}
+    "C:\\Users\\coryc\\workspace\\csharp\\exercises\\quest\\Quest.csproj": {}
   },
   "projects": {
-    "C:\\Users\\coryc\\workspace\\csharp\\exercises\\Quest\\Quest.csproj": {
+    "C:\\Users\\coryc\\workspace\\csharp\\exercises\\quest\\Quest.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\coryc\\workspace\\csharp\\exercises\\Quest\\Quest.csproj",
+        "projectUniqueName": "C:\\Users\\coryc\\workspace\\csharp\\exercises\\quest\\Quest.csproj",
         "projectName": "Quest",
-        "projectPath": "C:\\Users\\coryc\\workspace\\csharp\\exercises\\Quest\\Quest.csproj",
+        "projectPath": "C:\\Users\\coryc\\workspace\\csharp\\exercises\\quest\\Quest.csproj",
         "packagesPath": "C:\\Users\\coryc\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\coryc\\workspace\\csharp\\exercises\\Quest\\obj\\",
+        "outputPath": "C:\\Users\\coryc\\workspace\\csharp\\exercises\\quest\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\coryc\\AppData\\Roaming\\NuGet\\NuGet.Config",

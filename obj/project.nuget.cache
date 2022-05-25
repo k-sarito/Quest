@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "x+HGvgehDklISydBqU0Lgzkv0ouWq4LC7VDbfDAHiapZ6r6oM9Dv6bXesYeN0z+LW8YSWvZhK1Wu2I+mUKBIBQ==",
+  "dgSpecHash": "yw1m+dQnOMRq8LMBDnFB5U2lnaE9AHnhW/NBHEUoNNRnwTKADLnWHwItIiHfK6NQ7kCgs3QQQQ+TjLIR/WFj5w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\coryc\\workspace\\csharp\\exercises\\Quest\\Quest.csproj",
+  "projectFilePath": "C:\\Users\\coryc\\workspace\\csharp\\exercises\\quest\\Quest.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
